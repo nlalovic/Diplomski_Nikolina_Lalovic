@@ -1,0 +1,55 @@
+1
+00:00:00,796 --> 00:00:04,054
+[stol] Na stolu vidim: cow, joystick, cup.
+
+2
+00:00:04,054 --> 00:00:10,054
+[pogled] Gledam u cup.
+[izbor] cup selektovan.
+[cilj] X=+40.1 cm Y=+28.9 cm (sistem stola)
+
+3
+00:00:13,870 --> 00:00:19,870
+[hvat] Predmet uhvacen!
+[nosim] Prenosim predmet na odlagaliste 1.
+
+4
+00:00:20,494 --> 00:00:25,676
+[odlazem] Predmet spusten u zonu 1.
+[sistem] Cekam novu komandu.
+
+5
+00:00:25,676 --> 00:00:31,676
+[pogled] Gledam u cow.
+[izbor] cow selektovan.
+[cilj] X=+34.7 cm Y=+7.1 cm (sistem stola)
+
+6
+00:00:34,063 --> 00:00:40,063
+[hvat] Predmet uhvacen!
+[nosim] Prenosim predmet na odlagaliste 2.
+
+7
+00:00:40,630 --> 00:00:43,662
+[odlazem] Predmet spusten u zonu 2.
+[sistem] Cekam novu komandu.
+
+8
+00:00:43,662 --> 00:00:49,662
+[pogled] Gledam u joystick.
+[izbor] joystick selektovan.
+[cilj] X=+63.5 cm Y=+11.2 cm (sistem stola)
+
+9
+00:00:54,032 --> 00:01:00,032
+[hvat] Predmet uhvacen!
+[nosim] Prenosim predmet na odlagaliste 3.
+
+10
+00:01:01,584 --> 00:01:07,584
+[odlazem] Predmet spusten u zonu 3.
+[sistem] Cekam novu komandu.
+
+11
+00:01:09,648 --> 00:01:15,648
+[sistem] Proslo je 25s od poslednje aktivacije, ruka se vraca u inicijalnu poziciju.

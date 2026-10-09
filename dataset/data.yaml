@@ -1,0 +1,9 @@
+# Automatski generisano - 4_pripremi_dataset.py
+path: D:/spojeno/obuka/dataset
+train: images/train
+val: images/val
+
+names:
+  0: cup
+  1: joystick
+  2: cow
