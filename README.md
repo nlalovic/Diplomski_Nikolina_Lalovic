@@ -87,7 +87,3 @@ Vrijednosti u `config.py` odgovaraju postavci korišćenoj u laboratoriji. Pri p
 - dimenzije predmeta, kao i položaje zona za odlaganje.
 
 Novi predmet zahtijeva dodatno obučavanje modela za detekciju, marker postavljen na predmet i unos njegovih dimenzija u `config.py`.
-
-## Rezultati
-
-Obučeni model za detekciju predmeta ostvaruje *mAP50* od 0,991. Pri pragu zadržavanja pogleda od 2 s uspješnost izbora predmeta iznosila je 95 %. U završnom ispitivanju kompletnog sistema uspješno je izvedeno 46 od 60 ciklusa hvatanja i odlaganja, odnosno približno 77 %. Detaljan opis ispitivanja i analiza rezultata nalaze se u tekstu rada.
